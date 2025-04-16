@@ -195,6 +195,9 @@ function App() {
                 <li><Link to="/patients">Patient Details</Link></li>
                 <li><Link to="/payments">Payment Details</Link></li>
                 <li><Link to="/claims">Claim Details</Link></li>
+                <li><Link to="/claims">Report Details</Link></li>
+                <li><Link to="/claims">Claim Details</Link></li>
+                <li><Link to="/claims">Claim Details</Link></li>
               </ul>
             </nav>
           </div>
